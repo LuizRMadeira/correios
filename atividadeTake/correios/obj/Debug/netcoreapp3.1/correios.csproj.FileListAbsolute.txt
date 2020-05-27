@@ -11,3 +11,16 @@ C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.csproj.CoreC
 C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.dll
 C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.pdb
 C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.genruntimeconfig.cache
+c:\Projetos\correios\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.exe
+c:\Projetos\correios\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.deps.json
+c:\Projetos\correios\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.runtimeconfig.json
+c:\Projetos\correios\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.runtimeconfig.dev.json
+c:\Projetos\correios\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.dll
+c:\Projetos\correios\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.pdb
+c:\Projetos\correios\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.csprojAssemblyReference.cache
+c:\Projetos\correios\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.AssemblyInfoInputs.cache
+c:\Projetos\correios\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.AssemblyInfo.cs
+c:\Projetos\correios\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.csproj.CoreCompileInputs.cache
+c:\Projetos\correios\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.dll
+c:\Projetos\correios\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.pdb
+c:\Projetos\correios\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.genruntimeconfig.cache

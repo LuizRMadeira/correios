@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\atividadeTake\\correios\\correios.csproj",
+      "projectUniqueName": "c:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj",
       "projectName": "correios",
-      "projectPath": "C:\\Projetos\\atividadeTake\\correios\\correios.csproj",
+      "projectPath": "c:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj",
       "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\atividadeTake\\correios\\obj\\",
+      "outputPath": "c:\\Projetos\\correios\\atividadeTake\\correios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

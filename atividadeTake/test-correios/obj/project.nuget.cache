@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "giCCAVswPH27nBVR4sJVcSPN5MtxoVwGzp119rbDxiHSzdj1CU+BGlCKyjIwQjfPcmABDydoyFdpM9SQaSQaCg==",
+  "dgSpecHash": "LGvZbFdXFlO52nQ5G1Lb4/ir1+O1tim9Q6lUUStrJImSEv0v5V48A9vbdxbFKZJt9rKCK3u37IxGP8AsMwqV0g==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\atividadeTake\\test-correios\\test-correios.csproj",
+  "projectFilePath": "c:\\Projetos\\correios\\atividadeTake\\test-correios\\test-correios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

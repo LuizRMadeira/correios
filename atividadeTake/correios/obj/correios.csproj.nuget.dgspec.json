@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\atividadeTake\\correios\\correios.csproj": {}
+    "C:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\atividadeTake\\correios\\correios.csproj": {
+    "C:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\atividadeTake\\correios\\correios.csproj",
+        "projectUniqueName": "C:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj",
         "projectName": "correios",
-        "projectPath": "C:\\Projetos\\atividadeTake\\correios\\correios.csproj",
+        "projectPath": "C:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\atividadeTake\\correios\\obj\\",
+        "outputPath": "C:\\Projetos\\correios\\atividadeTake\\correios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\atividadeTake\\test-correios\\test-correios.csproj": {}
+    "c:\\Projetos\\correios\\atividadeTake\\test-correios\\test-correios.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\atividadeTake\\correios\\correios.csproj": {
+    "c:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\atividadeTake\\correios\\correios.csproj",
+        "projectUniqueName": "c:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj",
         "projectName": "correios",
-        "projectPath": "C:\\Projetos\\atividadeTake\\correios\\correios.csproj",
+        "projectPath": "c:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\atividadeTake\\correios\\obj\\",
+        "outputPath": "c:\\Projetos\\correios\\atividadeTake\\correios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Projetos\\atividadeTake\\test-correios\\test-correios.csproj": {
+    "c:\\Projetos\\correios\\atividadeTake\\test-correios\\test-correios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\atividadeTake\\test-correios\\test-correios.csproj",
+        "projectUniqueName": "c:\\Projetos\\correios\\atividadeTake\\test-correios\\test-correios.csproj",
         "projectName": "test-correios",
-        "projectPath": "C:\\Projetos\\atividadeTake\\test-correios\\test-correios.csproj",
+        "projectPath": "c:\\Projetos\\correios\\atividadeTake\\test-correios\\test-correios.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\atividadeTake\\test-correios\\obj\\",
+        "outputPath": "c:\\Projetos\\correios\\atividadeTake\\test-correios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,8 +75,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\atividadeTake\\correios\\correios.csproj": {
-                "projectPath": "C:\\Projetos\\atividadeTake\\correios\\correios.csproj"
+              "c:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj": {
+                "projectPath": "c:\\Projetos\\correios\\atividadeTake\\correios\\correios.csproj"
               }
             }
           }
