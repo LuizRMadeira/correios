@@ -1,0 +1,13 @@
+C:\Projetos\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.exe
+C:\Projetos\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.deps.json
+C:\Projetos\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.runtimeconfig.json
+C:\Projetos\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.runtimeconfig.dev.json
+C:\Projetos\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.dll
+C:\Projetos\atividadeTake\correios\bin\Debug\netcoreapp3.1\correios.pdb
+C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.csprojAssemblyReference.cache
+C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.AssemblyInfoInputs.cache
+C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.AssemblyInfo.cs
+C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.csproj.CoreCompileInputs.cache
+C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.dll
+C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.pdb
+C:\Projetos\atividadeTake\correios\obj\Debug\netcoreapp3.1\correios.genruntimeconfig.cache
